@@ -2,7 +2,7 @@
 
 A complete TypeScript boilerplate for integrating **Dodo Payments** with **Supabase**. Production-ready with comprehensive payment flows, customer management, and webhook handling.
 
-## 🎯 Assignment Complete
+## 🎯 It provides?
 
 This boilerplate provides everything needed for a complete Dodo Payments integration:
 

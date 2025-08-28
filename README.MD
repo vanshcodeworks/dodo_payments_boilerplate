@@ -33,7 +33,7 @@ supabase/
 ### 1. Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/vanshcodeworks/dodo_payments_boilerplate
 cd dodo_payments_boilerplate
 npm install
 ```
